@@ -1,0 +1,18 @@
+[
+    {
+        "id": "a16a2951cedfda89",
+        "type": "debug",
+        "z": "4393f2a6de1ab50a",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 550,
+        "y": 120,
+        "wires": []
+    }
+]
