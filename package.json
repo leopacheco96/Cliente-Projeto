@@ -1,0 +1,12 @@
+{
+    "name": "TesteLeo",
+    "description": "Teste de versão",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "NodeRedFlow.json",
+            "credentialsFile": "NodeRedFlow_cred.json"
+        }
+    }
+}
